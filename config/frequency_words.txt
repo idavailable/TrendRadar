@@ -40,7 +40,8 @@ DJI
 刘慈欣
 郭帆
 
-申奥
+稀土
+贸易战
 
 京东
 刘强东
@@ -77,6 +78,9 @@ iphone
 ipad
 mac
 ios
+trade war
+wall street
+
 
 ai
 !gai
